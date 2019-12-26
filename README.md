@@ -1,2 +1,3 @@
 # game2048
 my practice about javascript...
+[点击试玩](https://xiaoyongcoder.github.io/game2048/2048.html)
